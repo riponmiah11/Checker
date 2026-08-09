@@ -22,7 +22,7 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg" group-title="BANGLA", RTV
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="BANGLA", Banglavision
-https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA", Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="BANGLA", News 24
